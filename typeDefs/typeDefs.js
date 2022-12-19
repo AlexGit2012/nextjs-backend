@@ -10,6 +10,6 @@ export const typeDefs = gql`
 
   type Query {
     animals: [Animal!]!
-    animal(title: String!): Animal!
+    animal(title: String!): Animal
   }
 `;

@@ -58,7 +58,7 @@ import cors from "cors";
 
   httpServer.listen(PORT, () => {
     console.log(
-      `Server ready at https://nextjs-backend-production.up.railway.app/${server.graphqlPath}`
+      `Server ready at https://nextjs-backend-production.up.railway.app${server.graphqlPath}`
     );
     console.log("Port - ", PORT);
   });
