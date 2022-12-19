@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12dd2112412",
+    "title": "fox",
+    "description":
+    "Fast and light on their feet, red foxes are also known for their bushy tails, which they use for balance or to wrap around their bodies in cold weather. They also use their tails to communicate with other foxes. Red foxes have pointy, black-tipped ears, and their hearing is acute; they can detect the squeak of a mouse from 30 metres away. Their chests and tail tips are white and they have dark “stockings.”",
+    "image":
+    "https://canadiangeographic.ca/wp-content/uploads/2022/08/35785844-Winters_Colours-1024x715.jpg"
+  },
+  {
+    "id": "12dd2112012",
+    "title": "wolf",
+    "description":
+    "The Eurasian wolf (Canis lupus lupus), also known as the common wolf,[3] is a subspecies of grey wolf native to Europe and Asia. It was once widespread throughout Eurasia prior to the Middle Ages. Aside from an extensive paleontological record, Indo-European languages typically have several words for <wolf>, thus attesting to the animals abundance and cultural significance.[4] It was held in high regard in Baltic, Celtic, Slavic, Turkic, ancient Greek, Roman, and Thracian cultures, whilst having an ambivalent reputation in early Germanic cultures.",
+    "image":
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Eurasian_wolf_2.jpg/1161px-Eurasian_wolf_2.jpg"
+  },
+  {
+    "id": "12dd2112893",
+    "title": "bear",
+    "description":
+    "bear, (family Ursidae), any of eight species of large short-tailed carnivores found in the Americas, Europe, and Asia. The sun bear (Helarctos malayanus) is the smallest, often weighing less than 50 kg (110 pounds). The largest bear is either the Kodiak bear (Ursus arctos middendorffi, a subspecies of Alaskan brown bear; see also grizzly bear) or the polar bear (Ursus maritimus), depending upon which measurements are considered; either of these bears can weigh up to 720 kg (1,600 pounds). The black bear (Ursus americanus) is common in parts of the United States and Canada.",
+    "image":
+    "https://cdn.britannica.com/41/156441-050-A4424AEC/Grizzly-bear-Jasper-National-Park-Canada-Alberta.jpg"
+  }
+]
