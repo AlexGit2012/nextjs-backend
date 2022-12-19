@@ -60,6 +60,6 @@ import cors from "cors";
     console.log(
       `Server ready at https://nextjs-backend-production.up.railway.app/${server.graphqlPath}`
     );
-    console.log("Port - ", ${PORT});
+    console.log("Port - ", PORT);
   });
 })();
